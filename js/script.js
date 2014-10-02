@@ -39,7 +39,7 @@ function init(){
             color: 'red',
             fillColor: '#f03',
             fillOpacity: 0.7
-         }).addTo(map).bindPopup("<b>DAMADOLA</b><br><br><b>Total casualties (minimum reported): 106<br>Civilian casualties (minimum reported): 94<br>Children casualties (minimum reported): 74<br><br>Strikes: 2006 (twice), 2008");
+         }).addTo(map).bindPopup("<b>DAMADOLA</b><br><br>Total casualties (minimum reported): 106<br>Civilian casualties (minimum reported): 94<br>Children casualties (minimum reported): 74<br><br>Strikes: 2006 (twice), 2008");
 
          var DandaDarpakhel = L.circle([33.037625, 70.051998], 33500, {
             color: 'red',
